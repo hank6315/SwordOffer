@@ -1,2 +1,2 @@
 # SwordOffer
-the folder is for SwordOffer Practice and using python language for practice.
+the folder is for SwordOffer and using python language for practice.
