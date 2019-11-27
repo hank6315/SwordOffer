@@ -60,5 +60,5 @@ example 若要找10
 
 最後就找到10了
 
-## Link
-[Leetocde - 240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+## Leetocde Link
+[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
